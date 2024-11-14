@@ -1,1 +1,4 @@
-git init
+Name: Mariah
+Age: 30
+Favorite Color: Blue
+
